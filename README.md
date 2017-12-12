@@ -1,5 +1,5 @@
 # Java_MySQL
-MySQL Assignment: Will Insert, Delete, Populate, and Query a database using Java. More info on file "MySQL Assignment"
+MySQL Assignment: Will Insert, Delete, Populate, and Query a database using Java. More info on README file.
 
 UNC Charlotte
 Course: ECGR-4090 
