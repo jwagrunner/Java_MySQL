@@ -1,6 +1,6 @@
 # Java_MySQL
 
-Note: The codes used in the following projects were taken from various sources abd modified as instructed from professor.
+Note: The codes used in the following projects were taken from various sources and modified as instructed from professor.
 
 Information about assignment below:
 
